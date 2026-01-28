@@ -72,6 +72,10 @@ I'm a passionate software developer focused on building innovative solutions and
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-MushuRam01-181717?style=for-the-badge&logo=github)](https://github.com/MushuRam01)
+<!-- 
+  📝 TODO: Update the links below with your actual social media profiles
+  Remove or comment out any badges you don't want to use
+-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
